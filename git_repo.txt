@@ -1,0 +1,44 @@
+Version control:-
+Its system to keep the history of document or files and it can be go back to the previous file. It can be changes and manages by multiple users.
+
+Benefit:- 1. versioning capability  2. collaboration  3. centralized server
+
+Types :- local VC , Central VS , Distribution VC
+
+Snapshots ---commit
+
+
+Git :- speed,data integrity,
+
+Git init
+Git status
+Git add filename
+
+Git commit -m "first commit" 
+
+Git commit -am "comment"
+
+Git log
+
+
+Git clone adress.com
+
+Git clone username@serverip: /path/to/repo
+
+Git pull before you do git push
+
+Git remove 
+
+Git remote -v
+
+Git remote add  remotename location
+
+Git push origin
+
+Git branch
+
+Git branch newbrachname
+
+Git checkout newbranchname
+
+git clone vj@10.169.151.116:/home/course_data/
